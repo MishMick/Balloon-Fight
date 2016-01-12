@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GameModel : Model<MainApplcation> {
-
-
+public class GameModel : Model<MainApplcation> 
+{
 }
+

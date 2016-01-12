@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GameView : View<MainApplcation> {
+public class GameView : View<MainApplcation> 
+{
 
 
 
